@@ -1,0 +1,4 @@
+---
+ train_img_dir : "D:\\Classification_from_CSV\\data\\images"
+ train_label_csv : "D:\\Classification_from_CSV\\data\\pokemon.csv"
+ label_header : Type1
